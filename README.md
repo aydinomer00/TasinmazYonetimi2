@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TasinmazYonetimi
 Taşınmaz Yönetim Sistemi
 =======
@@ -30,3 +31,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 >>>>>>> 20e0379 (Initial commit for backend)
+=======
+# TasinmazYonetimi2
+>>>>>>> 0e3679b583c0bf91c7c78615a66e9eab933fc3b0
